@@ -9,6 +9,11 @@ module.exports = {
         './content/**/*.css'
       ],
       resources: './content/**/*.{png,svg}'
+    },
+    other: {
+      js: './content/js/other.js',
+      css: '',
+      resources: ''
     }
   }
 };
