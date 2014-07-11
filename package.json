@@ -9,8 +9,13 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "duplexer": "^0.1.1",
+    "duplexer2": "0.0.2",
     "gulp": "^3.8.6",
     "gulp-concat": "^2.3.3",
+    "merge-stream": "^0.1.5",
+    "readable-stream": "^1.0.27-1",
+    "through": "^2.3.4",
     "through2": "^0.5.1"
   }
 }
